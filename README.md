@@ -11,6 +11,7 @@ This repository contains hands-on network engineering labs focused on building a
 - VLANs and Inter-VLAN Routing
 - Static and Dynamic Routing
 - DHCP and DNS
+- Subnetting
 - Network Troubleshooting
 
 ## Tools
