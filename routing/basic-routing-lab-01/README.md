@@ -9,8 +9,6 @@ Configure a router to enable communication between two different networks.
 
 PC0 → Switch → Router → Switch → PC1
 
-![Topology](topology.png)
-
 ---
 
 ## IP Addressing
@@ -45,8 +43,6 @@ no shutdown
 ## Results
 
 Successfully configured routing between two networks.
-
-![Ping Test](ping-test.png)
 
 Initial ping failed due to ARP resolution, then succeeded.
 
